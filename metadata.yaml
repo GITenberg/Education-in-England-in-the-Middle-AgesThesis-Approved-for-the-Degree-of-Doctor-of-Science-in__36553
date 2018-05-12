@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38346'
     url: http://www.gutenberg.org/2009/agents/38346
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36553#Education-in-England-in-the-Middle-AgesThesis-Approved-for-the-Degree-of-Doctor-of-Science-in_
 gutenberg_issued: '2011-06-28'
 gutenberg_type: Text
 identifiers:
